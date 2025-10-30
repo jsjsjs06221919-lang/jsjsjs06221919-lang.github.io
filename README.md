@@ -5,7 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
- <img src="jjang01.png" />
+![스크린샷](./jjang01.png)
+
  
 <h1 align="center">🌟 My Awesome Project 🌟</h1>
 
