@@ -1,6 +1,7 @@
 # jsjsjs06221919-lang.github.io
 
 1030 11시53분 수정
+13시33분 수정
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
